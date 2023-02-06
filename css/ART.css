@@ -1,5 +1,5 @@
 p{text-align: center;}
-body{background-image: url('sky.jpeg'); background-repeat: no-repeat;background-attachment: fixed;background-size: 100% 100%;}
+body{background-image: url('../images/sky.jpeg'); background-repeat: no-repeat;background-attachment: fixed;background-size: 100% 100%;}
 #p1{width: 520;padding: 10;border: 5px solid beige;margin: 20;text-indent: 50px;}
 #p2{width: 520;padding: 10;border: 5px solid blueviolet;margin: 5;letter-spacing: 10;}
 #p3{width: 520;background-color: azure;line-height: 2;text-shadow: 3px 3px grey;}
