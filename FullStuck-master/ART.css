@@ -1,0 +1,17 @@
+p{text-align: center;}
+body{background-image: url('sky.jpeg'); background-repeat: no-repeat;background-attachment: fixed;background-size: 100% 100%;}
+#p1{width: 520;padding: 10;border: 5px solid beige;margin: 20;text-indent: 50px;}
+#p2{width: 520;padding: 10;border: 5px solid blueviolet;margin: 5;letter-spacing: 10;}
+#p3{width: 520;background-color: azure;line-height: 2;text-shadow: 3px 3px grey;}
+#p4{width: 520; padding: 25;box-sizing: border-box;background-color: aqua;word-spacing:-2;}
+#p5{width: 520;border: 4px;display: inline;background-color: pink;}
+#p6{width: 520;border: 4px;display: block;background-color: pink;}
+#poza1{vertical-align: top;}
+#poza2{vertical-align: middle;}
+#poza3{vertical-align: bottom;}
+.a{display: flex;flex-direction: row-reverse; height:200px; background-color: aqua;justify-content: space-between; align-items:stretch;}
+.b{display: flex;flex-direction: column-reverse;}
+.c{display: flex;flex-flow: column;}
+.d{display: flex;flex-direction: row;}
+.num{display: flex; justify-content: space-between;background-color: blueviolet; align-content: space-around; }
+.num>div{background-color: violet; width: 100%; margin: 10px; text-align: center; line-height: 75px; font-size: 30px;}
