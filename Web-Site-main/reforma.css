@@ -1,0 +1,15 @@
+.logo {
+    display: flex;
+    border: 1px solid black;
+    flex-direction: row;
+    padding: 10px;
+    background-color: black;
+    margin-left: 5px;
+}
+.lista_header > li {
+   color: white;
+   list-style: none;
+}
+li:hover{
+   background-color: rgb(177, 176, 176); 
+}

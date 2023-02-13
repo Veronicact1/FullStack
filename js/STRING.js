@@ -53,32 +53,49 @@
 // }
 
 // ex.4
-let tic="Let´s write a story in few words";
-let posicion=4;
-let letra1;
-let letra2;
+// let tic="Let´s write a story in few words";
+// let posicion=4;
+// let letra1;
+// let letra2;
 
-letra1=tic.charAt(posicion+1);
-letra2=tic.charAt(posicion-1);
-if(letra1==letra2)
-{
-   console.log("En la posicion"+ posicion+ "las letras son iguales") 
-}
-else
-{
-console.log()
-}
-inde
+// letra1=tic.charAt(posicion+1);
+// letra2=tic.charAt(posicion-1);
+// if(letra1==letra2)
+// {
+//    console.log("En la posicion"+ posicion+ "las letras son iguales") 
+// }
+// else
+// {
+// console.log()
+// }
+
+
+
 //x.5
+// let palindromo="aigofoia";
+// let inverso=""
+// console.log(palindromo.charAt(palindromo.length-1));
+// console.log(palindromo.length-1);
+// for (let k=palindromo.length-1; k=>0; k--)
+// {
+//  inverso += palindromo.charAt(k);
+//  console.log(inverso);
+// };
+// if (palindromo == inverso)
+// {
+// console.log("La variable palindromo: " +palindromo+ "es un palindromo")
+// }
+// else{
+//     console.log("La variable palindromo: " +palindromo+ " no es un palindromo")
+// } ----Ceva nu merge
 
 
 
 // ex7
-// let ti="Let´s write a story in few words"
-// console.log(ti.slice(0,-2))
-
+let ti="Let´s write a story in few words"
+console.log(ti.slice(0,-2)) //se puede hacer con ti.slice
 // ex8
-// let ti="Let´s write a story in few words"
+let ti="Let´s write a story in few words"
 
 // export.9
 // let t="Let´s write a story in few words"
